@@ -1,5 +1,7 @@
 Experiment for testing [stac-fastapi](https://github.com/stac-utils/stac-fastapi) frontend for a TileDB database in S3
 
+For notes on how I created the TileDB dataset (and how to use it), see the [TileDB.ipynb Jupyter Notebook](./TileDB.ipynb)
+
 ---
 
 Testing environment
